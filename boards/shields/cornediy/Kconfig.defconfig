@@ -1,0 +1,6 @@
+if SHIELD_CORNEDIY
+
+config ZMK_KEYBOARD_NAME
+  default "cornediy"
+
+endif

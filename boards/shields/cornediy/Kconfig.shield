@@ -1,0 +1,3 @@
+config SHIELD_CORNEDIY
+  def_bool $(shields_list_contains, cornediy)
+
